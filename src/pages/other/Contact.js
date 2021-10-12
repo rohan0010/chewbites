@@ -61,40 +61,7 @@ const Contact = ({ location }) => {
                     <div className="contact-info-dec">
                     
                       <p> CHEWY BITES LLP
-                        <br/>
-                      Registered Office FLAT NO. 09114,                        <br/>
-                      TOWER ALPINE MAHAGUN MYWOODS                         <br/>
-                      SECTOR 
-         16C
-, 
-GREATER NOIDA WEST,                        <br/>
-Uttar Pradesh,201306,                        <br/>
-
-
-PAN - AAQFC7871H
-<br/>
-
-MAIN OBJECT  –                          <br/>
-BUSINESS OF HOTELS , RESTAURANT, HOLIDAY CAMPS, GUEST HOUSE, EVENT MANAGEMENT  -----OWNED AND LEASE OUT PROPERTIES FOR THE SUPPORT OF MAIN OBJECT 
-<br/>
-
-Director details : 
-<br/>
-
-JYOTI NARULA                       <br/>
-– DIN- 09076246                       <br/>
-PAN – AJRPA0757E,                         <br/>
- ADHAAR – 2073-5851-0765                        <br/>
-
-Email Id- jyotinarula84@gmail.com  ,                        <br/>
- Ph No. 9958544350
- <br/>
-
-ANKUR ARORA                         <br/>
-- DIN-  09053243 ,                        <br/>
- PAN- AUZPK3962C, 
-Ph. No. 9810230941,                        <br/>
- Email Id - ankur.sqft@gmail.com                        <br/>
+                      
 
 
  </p>
